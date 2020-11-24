@@ -1,5 +1,7 @@
 package nenenep1;
 
 public class c2 {
-asdfasdf
+	public static void main(String[] args) {
+		System.out.println("¾Æ´Ï ¿Ö ¾ÈµÅ");
+	}
 }
